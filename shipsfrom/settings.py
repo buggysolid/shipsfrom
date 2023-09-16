@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'web',
     'django_tables2',
+    'bootstrap3',
 ]
 
 MIDDLEWARE = [

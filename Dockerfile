@@ -19,4 +19,5 @@ COPY . /code
 
 EXPOSE 8000
 
+RUN ["./run.sh"]
 CMD ["gunicorn", "--bind", ":8000", "--workers", "2", "shipsfrom.wsgi"]
