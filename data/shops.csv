@@ -11,7 +11,6 @@ Food,DPD,https://www.thecounterdeli.com
 Food,UPS,https://sheridanscheesemongers.com/
 Toys,AnPost,https://www.cogstoysandgames.ie
 Apparel,AnPost,https://drumgreenagh.com/
-Art,"AnPost, UPS",https://www.hensteethstore.com
 Toys,AnPost,https://www.woodenheart.ie/
 Art,AnPost,https://jamartprints.com
 Stationery,AnPost,https://notapoca.com/
@@ -34,3 +33,5 @@ Electronics,DPD,https://www.did.ie/
 "Apperal, Electronics, Toys",Parcel Connect,https://www.very.ie/
 Parts,AnPost,https://www.mbitechparts.ie/
 Food,,https://www.horgans.com/
+Beverage,UPS,https://www.craftbeersdelivered.com/
+Beverage,Fastway,https://www.wallandkeogh.com/
