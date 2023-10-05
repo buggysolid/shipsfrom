@@ -4,11 +4,20 @@ Beverage,AnPost,https://www.lilystea.ie
 Food,Unknown,https://www.ollysfarm.ie/
 Food,"DHL, UPS",https://allirelandfoods.ie
 Food,DPD,https://www.gourmettartco.com/
+Food,Unknown,https://www.asiamarket.ie/
 Food,DPD,https://www.frankhederman.com/
 Food,AnPost,https://www.ardkeen.com
 Food,DPD,https://www.hazelmountainchocolate.com
 Food,DPD,https://www.thecounterdeli.com
 Food,UPS,https://sheridanscheesemongers.com/
+Food,DPD,https://ballymaloe-foods.myshopify.com/
+Food,Unknown,https://www.ballymoreorganics.ie/shop/
+Food,Courier,https://bresnans.ie/
+Food,DHL,https://higginsbutchers.ie/
+Food,AnPost,https://manofaranfudge.ie/shop/
+Food,DPD,https://www.jameswhelanbutchers.com/
+Food,Unknown,https://toonsbridgedairy.com/
+Food,DPD,https://shinesseafood.ie/
 Toys,AnPost,https://www.cogstoysandgames.ie
 Apparel,AnPost,https://drumgreenagh.com/
 Toys,AnPost,https://www.woodenheart.ie/
@@ -18,6 +27,8 @@ Beverage,UPS,https://www.whiplashbeer.com
 Apparel,AnPost,https://hannahats.com
 Books,AnPost,https://www.maynoothbookshop.com
 Books,AnPost,https://www.lilliputpress.ie
+Books,Unknown,https://chaptersbookstore.com/
+Books,AnPost,https://www.easons.com/
 Food,DPD,https://beechlawnorganicfarm.ie
 Food,Courier,https://www.dublinmeatcompany.com/
 Food,DPD,https://www.duckshop.ie/
@@ -28,10 +39,10 @@ Repair,AnPost,https://www.celticrepairs.ie
 Electronics,AnPost,https://www.gadgets365.ie
 Electronics,"Courier, DPD",https://www.harveynorman.ie/
 Electronics,DPD,https://www.currys.ie/
-"Electronics, Toys","AnPost, DPD, UPS",https://www.smythstoys.com
+Toys,"AnPost, DPD, UPS",https://www.smythstoys.com
 Electronics,DPD,https://www.did.ie/
 "Apperal, Electronics, Toys",Parcel Connect,https://www.very.ie/
 Parts,AnPost,https://www.mbitechparts.ie/
-Food,,https://www.horgans.com/
+Food,Unknown,https://www.horgans.com/
 Beverage,UPS,https://www.craftbeersdelivered.com/
 Beverage,Fastway,https://www.wallandkeogh.com/
